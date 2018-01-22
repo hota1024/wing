@@ -1,3 +1,6 @@
+#wing
+![winglogo](https://user-images.githubusercontent.com/24543982/35212664-41168014-ff9e-11e7-834b-663d86e4bfe3.png)
+
 # Version
 This is version beta.
 
